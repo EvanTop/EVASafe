@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 37b90b68a17e7de0e96915fb7616a823_eb64b4bbb81511f1aea4525400393706
-    ReservedCode1: 66VqJdM6lxqlgEG/VvOE+fGhqwkM5vJdv+eRumYH30I1Z55FNwZmoTRjiZ8DfodpgKNhBAAleYm+eQPV5GGvJKmeGZiX1NiaGJ3eo1sLyLWZuQgkT6dJ1/I94M4UrzlljfV3n1yz4FAMVZvt7bCxE+vALiIK4pMEaffZLU/ItAI4XE97SLpv95zFJGc=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 37b90b68a17e7de0e96915fb7616a823_eb64b4bbb81511f1aea4525400393706
-    ReservedCode2: 66VqJdM6lxqlgEG/VvOE+fGhqwkM5vJdv+eRumYH30I1Z55FNwZmoTRjiZ8DfodpgKNhBAAleYm+eQPV5GGvJKmeGZiX1NiaGJ3eo1sLyLWZuQgkT6dJ1/I94M4UrzlljfV3n1yz4FAMVZvt7bCxE+vALiIK4pMEaffZLU/ItAI4XE97SLpv95zFJGc=
----
 
 # EVASafe
 
@@ -90,4 +80,4 @@ EVASafe 的设计理念很简单：**只有把密码彻底与互联网隔绝，�
 ## 反馈
 
 有想法、发现问题，欢迎到 [@EvanTop](https://github.com/evantop) 的仓库提 Issue。
-*（内容由AI生成，仅供参考）*
+
