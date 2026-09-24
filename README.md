@@ -12,6 +12,8 @@ EVASafe 用来集中存放那些零散又重要的东西：账号密码、银行
 
 它的核心只有一句话：**不联网、不上传、不做云同步**。所有数据都留在设备本地，外面加两道锁 —— PIN 码和指纹。
 
+
+
 ## 核心特性
 
 | 特性 | 说明 |
@@ -81,4 +83,13 @@ EVASafe 的设计理念很简单：**只有把密码彻底与互联网隔绝，�
 ## 反馈
 
 有想法、发现问题，欢迎到 [@EvanTop](https://github.com/evantop) 的仓库提 Issue。
+
+## 界面
+
+
+
+| 图片1 | 图片2 |
+| --- | --- |
+| <img src="https://github.com/user-attachments/assets/121463f4-3d82-47f9-8a3b-f653ca316d7f" width="400"> | <img src="https://github.com/user-attachments/assets/79ec6b68-6d32-49b6-b77d-7a74678a0fd2" width="400"> |
+| <img src="https://github.com/user-attachments/assets/71a2192c-a30d-4dd2-9baa-c45de8119a4b" width="400"> | <img src="https://github.com/user-attachments/assets/062e3232-e862-40bf-99a9-b03b1ae76d98" width="400"> |
 
