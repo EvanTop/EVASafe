@@ -2,6 +2,7 @@
 # EVASafe
 
 一个完全离线的安卓本地密码管理器 —— 密码只存在你自己的手机里。
+- 下载地址：https://github.com/EvanTop/EVASafe/releases
 
 ---
 
